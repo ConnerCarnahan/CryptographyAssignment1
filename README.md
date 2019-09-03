@@ -7,4 +7,4 @@ Essentially what I would like to do, but have no idea on how is convert both of 
 
 I have no clue how to do this though, but if it was possible / worked it would be significantly better than what I have written.
 
-Untitled is just a jupyter notebook that runs the code, to check it.
+PolynomialCheck is just a jupyter notebook that runs the code, to check it.
