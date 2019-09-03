@@ -1,5 +1,7 @@
 #################
 # Name: Conner Carnahan
+# ID: 1614309
+# carna104@mail.chapman.edu
 # Class: Cryptography
 # Assignment 1: Polynomial Multiplication
 # Date: Sept 3, 2019
