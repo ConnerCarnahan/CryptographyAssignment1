@@ -17,10 +17,4 @@ def polyMult(p,q):
             break
         else:
             k -= 1
-    if (k != -1):
-        final2 = np.zeros(k+1)
-        for i in np.nditer(np.arange(k+1)):
-            final2[i] = final[i]
-        return final2
-    else:
-        return [0]
+    return final[:k+1]
