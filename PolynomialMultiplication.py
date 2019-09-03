@@ -1,3 +1,11 @@
+#################
+# Name: Conner Carnahan
+# Class: Cryptography
+# Assignment 1: Polynomial Multiplication
+# Date: Sept 3, 2019
+#################
+
+
 import numpy as np
 
 def mult (a,b):
